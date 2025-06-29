@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Introdução ao LangChain",
+    "conteudo": "LangChain é um framework open-source projetado para facilitar a construção de aplicações avançadas com modelos de linguagem (LLMs). Ele oferece componentes modulares para tarefas como busca semântica, geração de texto, Q&A e integração com bancos de dados vetoriais (ex: FAISS, Pinecone). Com suporte para Python e JavaScript, o LangChain simplifica a criação de chains (fluxos de processamento) e agents (assistentes autônomos) baseados em IA. Principais casos de uso incluem chatbots, análise de documentos e automação de workflows."
+  },
+  {
+    "titulo": "O que são Embeddings?",
+    "conteudo": "Embeddings são representações numéricas (vetoriais) de texto, áudio ou imagens que capturam significado semântico. Em NLP, modelos como OpenAI Embeddings, BERT ou Sentence-Transformers convertem palavras/frases em vetores densos, onde textos similares têm representações próximas no espaço vetorial. Esses embeddings são usados em buscas semânticas, classificação de texto, clustering e recomendação. Exemplo: as frases 'gato' e 'felino' terão embeddings mais próximos entre si do que 'gato' e 'carro'. Ferramentas como LangChain usam embeddings para conectar LLMs a bases de conhecimento."
+  },
+  {
+    "titulo": "Aplicações Práticas de IA Generativa",
+    "conteudo": "IA generativa está revolucionando setores como marketing, saúde e educação. Com modelos como GPT-4, Claude ou Gemini, é possível gerar conteúdo personalizado (artigos, e-mails), resumir documentos, traduzir idiomas e até criar código. Desafios incluem alinhamento ético, mitigação de viés e custo computacional. Frameworks como LangChain ajudam a integrar esses modelos em aplicações reais, combinando-os com fontes de dados estruturadas e APIs externas."
+  }
+]
